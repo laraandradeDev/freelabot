@@ -1,0 +1,162 @@
+[
+  {
+    "id": "1",
+    "name": "Landing page",
+    "slug": "landing-page",
+    "description": "Página única moderna de alta conversão, responsiva, rápida e focada em vendas ou captação de clientes.",
+    "idealFor": "Lançamentos, prestadores de serviço, médicos, advogados e infoprodutos.",
+    "priceRange": "R$ 800 a R$ 1.500",
+    "basePrice": 800.00,
+    "deliveryDays": 5,
+    "features": [
+      "Design 100% responsivo (Mobile First)",
+      "Otimização de velocidade e SEO básico",
+      "Integração direta com WhatsApp e formulários",
+      "Instalação de Pixel da Meta e Google Analytics"
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Site institucional",
+    "slug": "site-institucional",
+    "description": "Site completo multipáginas (Início, Sobre, Serviços, Portfólio, Contato e Blog) para empresas que buscam autoridade.",
+    "idealFor": "Empresas, indústrias, escritórios e profissionais liberais.",
+    "priceRange": "R$ 1.500 a R$ 3.000",
+    "basePrice": 1500.00,
+    "deliveryDays": 12,
+    "features": [
+      "Estrutura completa multipáginas",
+      "Painel para gerenciamento de conteúdo/blog",
+      "Otimização avançada para o Google (SEO)",
+      "E-mails profissionais personalizados"
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Catálogo digital + WhatsApp",
+    "slug": "catalogo-digital-whatsapp",
+    "description": "Vitrine virtual prática onde o cliente escolhe produtos, monta o carrinho e envia o pedido pronto para o seu WhatsApp.",
+    "idealFor": "Lojas de roupas, calçados, joias, cosméticos, artesanato e pequenas lojas.",
+    "priceRange": "R$ 1.500 a R$ 2.500",
+    "basePrice": 1500.00,
+    "deliveryDays": 8,
+    "features": [
+      "Vitrine com fotos, variações e preços",
+      "Carrinho de compras rápido e intuitivo",
+      "Envio do pedido formatado no WhatsApp",
+      "Sem cobrança de comissões por venda"
+    ]
+  },
+  {
+    "id": "4",
+    "name": "Catálogo + painel administrativo",
+    "slug": "catalogo-painel-admin",
+    "description": "Catálogo digital interativo acompanhado de painel web completo para você cadastrar produtos, categorias, banners e controlar preços.",
+    "idealFor": "Lojas em expansão e atacados que precisam atualizar catálogo com frequência.",
+    "priceRange": "R$ 2.500 a R$ 4.000+",
+    "basePrice": 2500.00,
+    "deliveryDays": 15,
+    "features": [
+      "Painel administrativo com login seguro",
+      "Gestão de produtos, fotos e categorias em tempo real",
+      "Controle de estoque básico e destaques",
+      "Checkout via WhatsApp ou link de pagamento"
+    ]
+  },
+  {
+    "id": "5",
+    "name": "Sistema de estoque/gestão simples",
+    "slug": "sistema-gestao-estoque",
+    "description": "Sistema web sob medida para controle de entradas/saídas de produtos, alertas de estoque baixo e relatórios financeiros simples.",
+    "idealFor": "Pequenas empresas, oficinas, distribuidoras e prestadores de serviço.",
+    "priceRange": "R$ 2.500 a R$ 5.000+",
+    "basePrice": 2500.00,
+    "deliveryDays": 20,
+    "features": [
+      "Controle de entradas, saídas e movimentações",
+      "Cadastro de clientes, fornecedores e produtos",
+      "Relatórios de vendas e lucratividade",
+      "Acesso em nuvem seguro de qualquer dispositivo"
+    ]
+  },
+  {
+    "id": "6",
+    "name": "Sistema de pedidos/delivery",
+    "slug": "sistema-pedidos-delivery",
+    "description": "Plataforma própria de delivery (estilo iFood próprio) para o cliente pedir online sem você pagar comissões por venda.",
+    "idealFor": "Hamburguerias, pizzarias, marmitarias, docerias e restaurantes.",
+    "priceRange": "R$ 2.500 a R$ 5.000+",
+    "basePrice": 2500.00,
+    "deliveryDays": 18,
+    "features": [
+      "Cardápio com adicionais, opções e observações",
+      "Cálculo de taxa de entrega automático por bairro ou km",
+      "Painel de pedidos em tempo real na cozinha",
+      "Impressão automática e relatórios de vendas"
+    ]
+  },
+  {
+    "id": "7",
+    "name": "Bot básico de atendimento",
+    "slug": "bot-basico-atendimento",
+    "description": "Chatbot de WhatsApp com menu interativo, respostas automáticas para dúvidas frequentes, horários de funcionamento e localização.",
+    "idealFor": "Clínicas, escritórios e comércio com perguntas repetitivas no WhatsApp.",
+    "priceRange": "R$ 500 a R$ 1.000",
+    "basePrice": 500.00,
+    "deliveryDays": 4,
+    "features": [
+      "Menu de opções interativo e automático",
+      "Respostas 24/7 instantâneas",
+      "Direcionamento para atendente humano",
+      "Configuração simples e rápida"
+    ]
+  },
+  {
+    "id": "8",
+    "name": "Bot + catálogo/WhatsApp",
+    "slug": "bot-catalogo-whatsapp",
+    "description": "Chatbot inteligente que apresenta seus produtos ou serviços dentro da própria conversa do WhatsApp, permitindo ao cliente consultar preços e fazer pedidos.",
+    "idealFor": "Empresas e lojas que vendem diretamente pelo chat.",
+    "priceRange": "R$ 1.000 a R$ 2.500",
+    "basePrice": 1000.00,
+    "deliveryDays": 10,
+    "features": [
+      "Apresentação de produtos/serviços no chat",
+      "Carrinho e captação de pedidos automatizada",
+      "Integração com banco de dados de produtos",
+      "Registro de leads e histórico de conversas"
+    ]
+  },
+  {
+    "id": "9",
+    "name": "Bot de agendamento",
+    "slug": "bot-agendamento",
+    "description": "Chatbot que consulta horários disponíveis, coleta dados do cliente, confirma agendamentos e envia lembretes automáticos.",
+    "idealFor": "Barbearias, salões de beleza, clínicas, consultorias e estúdios.",
+    "priceRange": "R$ 1.500 a R$ 3.000",
+    "basePrice": 1500.00,
+    "deliveryDays": 12,
+    "features": [
+      "Verificação de horários e datas disponíveis",
+      "Agendamento automático sem intervenção humana",
+      "Integração com Google Calendar ou banco próprio",
+      "Envio de confirmações e avisos de lembrete"
+    ]
+  },
+  {
+    "id": "10",
+    "name": "Bot de pedidos/delivery",
+    "slug": "bot-pedidos-delivery",
+    "description": "Chatbot completo para restaurantes e delivery onde o cliente monta o pedido diretamente pela conversa do WhatsApp.",
+    "idealFor": "Pizzarias, lanchonetes e entregas rápidas.",
+    "priceRange": "R$ 2.000 a R$ 4.000+",
+    "basePrice": 2000.00,
+    "deliveryDays": 15,
+    "features": [
+      "Navegação pelo cardápio no próprio WhatsApp",
+      "Escolha de sabores, tamanhos e adicionais",
+      "Cálculo automático de total e endereço de entrega",
+      "Encaminhamento direto para a cozinha/impressora"
+    ]
+  }
+]
